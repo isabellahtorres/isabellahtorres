@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá! Eu sou a Isabella Torres 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-hermes-torres-8b2148219)
 
-<!--
-**isabellahtorres/isabellahtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meus passatempos prediletos são ver filmes, ouvir músicas e conhecer novos lugares 📽️🎧🌆
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellahtorres&show_icons=true&theme=dark&hide=stars)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência em
+<div style="display: inline_block">
+<img align="center" alt="html5" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white>
+</div>
+
+## Estudando
+<div style="display: inline_block">
+<img align="center" alt="html5" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
+<img align="center" alt="html5" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
+<img align="center" alt="html5" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
+</div>
+
+## Contato
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/isabellahtorress) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1690503133)
+
+
