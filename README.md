@@ -1,5 +1,6 @@
 # Olá! Eu sou a Isabella Torres 👋
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-hermes-torres-8b2148219)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isabella-hermes-torres-8b2148219) [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ee6jbapdlq535i4mabzznfirpu?si=d9w9YgDOSP6kW3260irvSA)
+
 
 ### Meus passatempos prediletos são ver filmes, ouvir músicas e conhecer novos lugares 📽️🎧🌆
 
